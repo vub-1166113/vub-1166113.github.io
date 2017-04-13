@@ -16,6 +16,13 @@
     font-weight: bold;
 }
 
+h3 {
+        font-size: 60px;
+    font-family: "Passion One";
+    color: #FFBC00;
+    font-weight: bold;
+}
+
 #LeftNav {
     width: 400px;
     margin-left: auto;
@@ -68,4 +75,8 @@ a {
     color: white;
     font-weight: bold;
     font-size: 24px;
+}
+
+span {
+    color: gold;
 }
