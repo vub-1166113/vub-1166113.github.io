@@ -1,0 +1,32 @@
+.field {
+    font-family: "verdana";
+    color:red;
+    background-color: green;
+}
+
+
+legend {
+    color: hotpink;
+    font-family: "courier";
+}
+
+h2 {
+    background-color: blue;
+    font-family: "Arial";
+    font-size: 40px;
+}
+
+body {
+    background-image: url("dark_wood.png")
+}
+
+input {
+    background-color: darkred;
+    color: gold;
+}
+
+textarea {
+    background-color: darkgrey;
+    color: sienna;
+    font-family: "wingdings";
+}
