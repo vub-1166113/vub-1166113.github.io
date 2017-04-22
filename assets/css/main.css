@@ -2961,12 +2961,14 @@
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
+			font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 		}
 
 		#banner p {
 			font-size: 1em;
 			color: darkorange;
 			margin-bottom: 1.75em;
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 		}
 
 		@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
@@ -3025,10 +3027,11 @@
 	}
 
 	#footer .copyright {
-		color: #bbb;
+		color: aquamarine;
 		font-size: 0.8em;
 		margin: 0 0 2em 0;
 		padding: 0;
+		font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 	}
 
 		#footer .copyright a {
